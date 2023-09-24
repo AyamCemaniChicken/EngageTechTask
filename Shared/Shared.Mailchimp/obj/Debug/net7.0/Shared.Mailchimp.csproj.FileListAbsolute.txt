@@ -1,0 +1,17 @@
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.csproj.AssemblyReference.cache
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.AssemblyInfoInputs.cache
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.AssemblyInfo.cs
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.csproj.CoreCompileInputs.cache
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Mailchimp.deps.json
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Mailchimp.dll
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Mailchimp.pdb
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Common.dll
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Mailchimp.Model.dll
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Mailchimp.Model.pdb
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/bin/Debug/net7.0/Shared.Common.pdb
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.csproj.CopyComplete
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.dll
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/refint/Shared.Mailchimp.dll
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/Shared.Mailchimp.pdb
+/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Mailchimp/obj/Debug/net7.0/ref/Shared.Mailchimp.dll

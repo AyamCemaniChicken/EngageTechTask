@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entity\" />
+    <None Remove="Entity\Supporting\" />
+    <None Remove="Entity\Response\" />
+    <None Remove="Entity\Request\" />
+    <None Remove="Enum\" />
+    <None Remove="Entity\Request\Supporting\" />
+    <None Remove="Attributes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="Entity\Supporting\" />
+    <Folder Include="Entity\Response\" />
+    <Folder Include="Entity\Request\" />
+    <Folder Include="Enum\" />
+    <Folder Include="Entity\Request\Supporting\" />
+    <Folder Include="Attributes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Shared.Common\Shared.Common.csproj" />
+  </ItemGroup>
+</Project>

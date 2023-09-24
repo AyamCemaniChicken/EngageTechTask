@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Shared.Mailchimp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared.Mailchimp/MailchimpClient.cs">
+    <Files>
+      <File FileName="Shared.Mailchimp.Model/Entity/List.cs" Line="12" Column="1" IsPinned="True" />
+      <File FileName="Shared.Mailchimp/Class1.cs" Line="131" Column="14" IsPinned="True" />
+      <File FileName="Shared.Mailchimp.Model/Entity/Supporting/Link.cs" Line="1" Column="1" />
+      <File FileName="Shared.Mailchimp.Model/Entity/Request/NewMergeFieldRequest.cs" Line="1" Column="1" />
+      <File FileName="Shared.Mailchimp.Model/Entity/Response/MembersResponse.cs" Line="1" Column="1" />
+      <File FileName="Shared.Mailchimp.Model/Entity/Supporting/MemberStats.cs" Line="1" Column="1" />
+      <File FileName="Shared.Mailchimp.Model/Entity/Member.cs" Line="31" Column="3" />
+      <File FileName="Shared.Mailchimp.Model/Entity/Request/NewMemberRequest..cs" Line="24" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shared" expanded="True" selected="True">
+            <Node name="Shared.Common" expanded="True">
+              <Node name="Attributes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shared.Mailchimp.Model FirstBuild="True" />
+</Properties>
