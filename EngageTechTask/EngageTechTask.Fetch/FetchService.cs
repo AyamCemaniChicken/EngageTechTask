@@ -39,7 +39,6 @@ namespace EngageTechTask.Fetch
 
         public async Task Run(IMessageChannel msgChannel)
         {
-            _config = await _dbClient.GetByObjectId<Configuration>(new ObjectId(_config.Id));
             await msgChannel.SendMessageAsync($"Integration started {DateTime.Now}");
 
             if (_config == null)
