@@ -1,0 +1,12 @@
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/bin/Debug/net7.0/EngageTechTask.Common.deps.json
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/bin/Debug/net7.0/EngageTechTask.Common.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/bin/Debug/net7.0/EngageTechTask.Common.pdb
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.csproj.AssemblyReference.cache
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.AssemblyInfoInputs.cache
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.AssemblyInfo.cs
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.csproj.CoreCompileInputs.cache
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/refint/EngageTechTask.Common.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/EngageTechTask.Common.pdb
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/obj/Debug/net7.0/ref/EngageTechTask.Common.dll

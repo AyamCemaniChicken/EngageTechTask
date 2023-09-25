@@ -1,0 +1,17 @@
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/EngageTechTask.Push.deps.json
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/EngageTechTask.Push.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/EngageTechTask.Push.pdb
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/EngageTechTask.Common.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/Shared.MongoDB.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/Shared.MongoDB.pdb
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/bin/Debug/net7.0/EngageTechTask.Common.pdb
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.csproj.AssemblyReference.cache
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.GeneratedMSBuildEditorConfig.editorconfig
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.AssemblyInfoInputs.cache
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.AssemblyInfo.cs
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.csproj.CoreCompileInputs.cache
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.csproj.CopyComplete
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/refint/EngageTechTask.Push.dll
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/EngageTechTask.Push.pdb
+/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/obj/Debug/net7.0/ref/EngageTechTask.Push.dll
