@@ -166,11 +166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Model/Shared.Model.csproj",
+      "projectUniqueName": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.Model/Shared.Model.csproj",
       "projectName": "Shared.Model",
-      "projectPath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Model/Shared.Model.csproj",
+      "projectPath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.Model/Shared.Model.csproj",
       "packagesPath": "/Users/curtis/.nuget/packages/",
-      "outputPath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Model/obj/",
+      "outputPath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/curtis/.nuget/NuGet/NuGet.Config"
@@ -223,7 +223,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
       }
     }
   }

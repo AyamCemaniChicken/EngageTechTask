@@ -5,6 +5,16 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{6CAD9C05-D432-4F1E-87EA-5502FE680916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.MongoDB", "..\Shared\Shared.MongoDB\Shared.MongoDB.csproj", "{4E2DC97C-6BEE-4502-9154-0DE8A25C5FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngageTechTask.Fetch", "EngageTechTask.Fetch\EngageTechTask.Fetch.csproj", "{BCB22A5F-83B1-40CE-B77B-00C22EC0CA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngageTechTask.Discord", "EngageTechTask.Discord\EngageTechTask.Discord.csproj", "{24B27C07-A3CF-4E39-AA80-D8F94ADC009A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngageTechTask.Push", "EngageTechTask.Push\EngageTechTask.Push.csproj", "{F6B41E95-0762-41EE-9CAD-294AB0243E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngageTechTask.Common", "EngageTechTask.Common\EngageTechTask.Common.csproj", "{A3A83968-3A19-4E46-BC2E-D57091B2C6AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,5 +24,28 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2DC97C-6BEE-4502-9154-0DE8A25C5FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2DC97C-6BEE-4502-9154-0DE8A25C5FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2DC97C-6BEE-4502-9154-0DE8A25C5FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2DC97C-6BEE-4502-9154-0DE8A25C5FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB22A5F-83B1-40CE-B77B-00C22EC0CA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB22A5F-83B1-40CE-B77B-00C22EC0CA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB22A5F-83B1-40CE-B77B-00C22EC0CA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB22A5F-83B1-40CE-B77B-00C22EC0CA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B27C07-A3CF-4E39-AA80-D8F94ADC009A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B27C07-A3CF-4E39-AA80-D8F94ADC009A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B27C07-A3CF-4E39-AA80-D8F94ADC009A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B27C07-A3CF-4E39-AA80-D8F94ADC009A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B41E95-0762-41EE-9CAD-294AB0243E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B41E95-0762-41EE-9CAD-294AB0243E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B41E95-0762-41EE-9CAD-294AB0243E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B41E95-0762-41EE-9CAD-294AB0243E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A83968-3A19-4E46-BC2E-D57091B2C6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A83968-3A19-4E46-BC2E-D57091B2C6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A83968-3A19-4E46-BC2E-D57091B2C6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A83968-3A19-4E46-BC2E-D57091B2C6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E2DC97C-6BEE-4502-9154-0DE8A25C5FD2} = {6CAD9C05-D432-4F1E-87EA-5502FE680916}
 	EndGlobalSection
 EndGlobal

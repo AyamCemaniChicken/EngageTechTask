@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Shared.MongoDB\Shared.MongoDB.csproj" />
+    <ProjectReference Include="..\EngageTechTask.Common\EngageTechTask.Common.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="3.12.0" />
+  </ItemGroup>
+</Project>

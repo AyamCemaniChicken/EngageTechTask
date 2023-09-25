@@ -2,6 +2,7 @@ using System;
 using MongoDB.Driver;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization;
+using MongoDB.Bson.Serialization.Serializers;
 
 namespace Shared.MongoDB
 {
@@ -44,6 +45,15 @@ namespace Shared.MongoDB
             return await Collection.Find(fil).ToListAsync();
         }
 
+        public async Task<List<T>> GetAll<T>(string prop, bool value)
+        {
+            var Collection = GetCollection<T>();
+
+            var fil = Builders<T>.Filter.Eq(prop, value);
+
+            return await Collection.Find(fil).ToListAsync();
+        }
+
         public async Task<List<T>> GetAll<T>(string prop, long value)
         {
             var Collection = GetCollection<T>();
@@ -77,7 +87,7 @@ namespace Shared.MongoDB
 
             var fil = Builders<T>.Filter.Regex(prop, $"/{value}/i");
 
-            var res = await Collection.Find(fil).ToListAsync();
+            var res = await Collection.Find(fil)?.ToListAsync();
 
             return res.FirstOrDefault();
         }
@@ -108,7 +118,7 @@ namespace Shared.MongoDB
         {
             var Collection = GetCollection<T>();
 
-            var fil = Builders<T>.Filter.Eq("Id", id);
+            var fil = Builders<T>.Filter.Eq("_id", id);
 
             var res = await Collection.Find(fil).ToListAsync();
 
@@ -119,7 +129,7 @@ namespace Shared.MongoDB
         {
             var Collection = GetCollection<T>();
 
-            var fil = Builders<T>.Filter.Eq("Id", id);
+            var fil = Builders<T>.Filter.Eq("_id", id);
 
             var res = await Collection.Find(fil).ToListAsync();
 
@@ -131,7 +141,7 @@ namespace Shared.MongoDB
             var Collection = GetCollection<T>();
 
             var ObjectId = new ObjectId(id);
-            var fil = Builders<T>.Filter.Eq("Id", ObjectId);
+            var fil = Builders<T>.Filter.Eq("_id", ObjectId);
 
             var res = await Collection.Find(fil).ToListAsync();
 
@@ -141,7 +151,7 @@ namespace Shared.MongoDB
         {
             var Collection = GetCollection<T>();
 
-            var fil = Builders<T>.Filter.Eq("Id", id);
+            var fil = Builders<T>.Filter.Eq("_id", id);
 
             var res = await Collection.Find(fil).ToListAsync();
 
@@ -152,7 +162,7 @@ namespace Shared.MongoDB
             var Collection = GetCollection<T>(collection);
 
             var ObjectId = new ObjectId(id);
-            var fil = Builders<T>.Filter.Eq("Id", ObjectId);
+            var fil = Builders<T>.Filter.Eq("_id", ObjectId);
 
             var res = await Collection.Find(fil).ToListAsync();
 
@@ -162,7 +172,7 @@ namespace Shared.MongoDB
         {
             var Collection = GetCollection<T>(collection);
 
-            var fil = Builders<T>.Filter.Eq("Id", id);
+            var fil = Builders<T>.Filter.Eq("_id", id);
 
             var res = await Collection.Find(fil).ToListAsync();
 
@@ -177,7 +187,7 @@ namespace Shared.MongoDB
 
             if (existingRecord != null)
             {
-                var fil = Builders<T>.Filter.Eq("Id", existingId);
+                var fil = Builders<T>.Filter.Eq("_id", existingId);
                 var res = await Collection.ReplaceOneAsync(fil, updateRecord);
 
                 return res.IsAcknowledged;
@@ -197,7 +207,7 @@ namespace Shared.MongoDB
 
             if (existingRecord != null)
             {
-                var fil = Builders<T>.Filter.Eq("Id", existingId);
+                var fil = Builders<T>.Filter.Eq("_id", existingId);
                 var res = await Collection.ReplaceOneAsync(fil, updateRecord);
 
                 return res.IsAcknowledged;
@@ -218,7 +228,7 @@ namespace Shared.MongoDB
 
             if (existingRecord != null)
             {
-                var fil = Builders<T>.Filter.Eq("Id", existingId);
+                var fil = Builders<T>.Filter.Eq("_id", existingId);
                 var res = await Collection.ReplaceOneAsync(fil, updateRecord);
 
                 return res.IsAcknowledged;

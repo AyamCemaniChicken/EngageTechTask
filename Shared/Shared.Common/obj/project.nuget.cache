@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Z30PDj30VXAsZ5ppUL1a6ZFXYOzYpU//qXx3+7Cux42IZ/FpnSdtoWN1MHBkyFV7tSIm3nxmSJYEvlq9fPsVQ==",
+  "dgSpecHash": "KOwD7VGdvSdBFN/4z7q9W2J/ah/T7bfngBl/N/YVKRGtSaQVDnx+0O9t8I4nzwroyKKfUBGvtPfw5HOxynAjcA==",
   "success": true,
-  "projectFilePath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Common/Shared.Common.csproj",
+  "projectFilePath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.Common/Shared.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

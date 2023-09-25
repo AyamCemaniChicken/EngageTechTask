@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgTmAQ11nnTr+rZNwzKioeD3y3sDmRRnEZUjI8FkCImrHi7Vh6nDmqYapVPVaSJ3CNI3I7ovCMXp07R1dWZ8NQ==",
+  "dgSpecHash": "cTdHUsf1NpiPPnKjvTv8RV5CtZTP/MpWcJioE6baItECqGdTedqBgNi4MeFzKX4OCHrHfk+t4Dnt5f9m5KXQ0w==",
   "success": true,
-  "projectFilePath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Model/Shared.Model.csproj",
+  "projectFilePath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.Model/Shared.Model.csproj",
   "expectedPackageFiles": [
     "/Users/curtis/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
     "/Users/curtis/.nuget/packages/mongodb.bson/2.21.0/mongodb.bson.2.21.0.nupkg.sha512",

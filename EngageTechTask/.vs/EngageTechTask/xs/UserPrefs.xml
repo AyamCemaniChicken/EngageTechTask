@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{24B27C07-A3CF-4E39-AA80-D8F94ADC009A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Discord/Modules/Interaction/ConfigureModule.cs" relfile="EngageTechTask.Discord/Modules/Interaction/ConfigureModule.cs" line="10" column="1" />
+      <Breakpoint file="/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Fetch/FetchService.cs" relfile="EngageTechTask.Fetch/FetchService.cs" line="153" column="1" />
+      <Breakpoint file="/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Push/PushService.cs" relfile="EngageTechTask.Push/PushService.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EngageTechTask.Discord PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EngageTechTask.Discord/Common/GenerateMessage.cs">
+    <Files>
+      <File FileName="EngageTechTask.Push/PushService.cs" Line="2" Column="24" />
+      <File FileName="EngageTechTask.Common/Configuration.cs" />
+      <File FileName="EngageTechTask.Common/User.cs" Line="54" Column="50" />
+      <File FileName="EngageTechTask.Fetch/FetchService.cs" Line="4" Column="20" />
+      <File FileName="EngageTechTask.Discord/Modules/Interaction/GeneralModule.cs" Line="12" Column="27" />
+      <File FileName="EngageTechTask.Discord/Modules/Text/FilesHelper.cs" Line="6" Column="1" />
+      <File FileName="EngageTechTask.Discord/Startup.cs" Line="9" Column="22" />
+      <File FileName="../Shared/Shared.MongoDB/DBClient.cs" Line="232" Column="1" />
+      <File FileName="EngageTechTask.Discord/Common/GenerateMessage.cs" Line="57" Column="2" />
+      <File FileName="EngageTechTask.Discord/Services/CommandHandlingService.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Program.cs" Line="6" Column="1" />
+      <File FileName="EngageTechTask.Discord/Services/MessageHandler.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Services/InteractionHandlingService.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Preconditions/Permissions.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Preconditions/GuildOwner.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Modules/Text/HelpModule.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Modules/InteractionsBase.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Modules/Text/BaseModule.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Common/Logger.cs" Line="1" Column="1" />
+      <File FileName="EngageTechTask.Discord/Common/Config.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EngageTechTask">
+            <Node name="EngageTechTask.Discord">
+              <Node name="Common" expanded="True">
+                <Node name="GenerateMessage.cs" selected="True" />
+              </Node>
+              <Node name="Preconditions" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

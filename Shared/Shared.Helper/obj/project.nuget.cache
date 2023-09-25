@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13rwbNVY672khTydrh8kYa3C2KuyPOJA3W9kruOSb8CohdJ02e7yPS1LnSOI0s0+WUg6viIoN3bUFFX2ly3nlA==",
+  "dgSpecHash": "viv8nh/46ajoqFtpMJgepyPViADcuIOc77o1wy23UF5slAeXSWS5GkTItHVSQK09wjeoToT87rXfKKD8gcL6Fw==",
   "success": true,
-  "projectFilePath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.Helper/Shared.Helper.csproj",
+  "projectFilePath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.Helper/Shared.Helper.csproj",
   "expectedPackageFiles": [
     "/Users/curtis/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/curtis/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",

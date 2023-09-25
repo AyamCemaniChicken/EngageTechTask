@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lYO2POH7Wp6CCJMAo5zP0q25QSXnygbpA4nxhkx9K5hUeconk+8ARiF2HstecOUfwymxPaOvzLZB2u3+gGdIA==",
+  "success": true,
+  "projectFilePath": "/Users/curtis/Downloads/EngageTechTask/EngageTechTask/EngageTechTask.Common/EngageTechTask.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/curtis/.nuget/packages/mongodb.bson/2.21.0/mongodb.bson.2.21.0.nupkg.sha512",
+    "/Users/curtis/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/curtis/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

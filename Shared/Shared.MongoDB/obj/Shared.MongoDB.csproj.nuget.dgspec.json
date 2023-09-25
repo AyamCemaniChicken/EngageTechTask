@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.MongoDB/Shared.MongoDB.csproj": {}
+    "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.MongoDB/Shared.MongoDB.csproj": {}
   },
   "projects": {
-    "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.MongoDB/Shared.MongoDB.csproj": {
+    "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.MongoDB/Shared.MongoDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.MongoDB/Shared.MongoDB.csproj",
+        "projectUniqueName": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.MongoDB/Shared.MongoDB.csproj",
         "projectName": "Shared.MongoDB",
-        "projectPath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.MongoDB/Shared.MongoDB.csproj",
+        "projectPath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.MongoDB/Shared.MongoDB.csproj",
         "packagesPath": "/Users/curtis/.nuget/packages/",
-        "outputPath": "/Users/curtis/Documents/AnonymisedHubSpotIntegration/Shared/Shared.MongoDB/obj/",
+        "outputPath": "/Users/curtis/Downloads/EngageTechTask/Shared/Shared.MongoDB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/curtis/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
         }
       }
     }
